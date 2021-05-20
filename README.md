@@ -23,3 +23,4 @@ In this lab assignment you will be creating a command line application which tak
 - [Python docs](https://docs.python.org/3/)
 - [Regexr](https://regexr.com/)
 - [Hands-on Python Tutorial: FileIO](https://anh.cs.luc.edu/handsonPythonTutorial/io.html)
+- [Real Python: A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
